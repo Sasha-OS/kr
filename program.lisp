@@ -16,6 +16,6 @@
 (T (F (cdr L)))))
 
 
-(defvar x(list 1 2 3 4 5))
+(defvar x(list 1 2 3 4))
 (defvar ans (my-max x))
 (print ans)
